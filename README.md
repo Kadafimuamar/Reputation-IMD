@@ -1,4 +1,4 @@
-# Reputation Ticker ($REP) — Chrome Extension MVP
+# Reputation Ticker ($REP) — Chrome Extension
 
 Sepolia-first MVP for assigning on-chain reputation to X/Twitter accounts.
 
