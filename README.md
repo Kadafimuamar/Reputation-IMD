@@ -1,4 +1,4 @@
-# Reputation Ticker ($REP) — Chrome Extension
+# Reputation ($REP) — Chrome Extension
 
 Assigning on-chain reputation to X/Twitter accounts.
 
